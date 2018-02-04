@@ -14,15 +14,16 @@ style: styles-2
 
 #Profile information
 name: Jovy Postrado
-tagline: Data Scientist
+tagline: Data Science Graduate
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: jovy62485@gmail.com
 phone: 0449159529
-website: jobi03.github.io/blogs #do not add http://
+website: jobi03.github.io #do not add http://
 linkedin: jovy-postrado-75110b155
 github: jobi03
+github: jobiGA
 
 
 #Update all the sections by editing the files inside _includes folder.
